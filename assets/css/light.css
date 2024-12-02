@@ -1,8 +1,8 @@
 /* Sky */
 
 .sky {
-  --sky-color: #c7cbcc;
-  --sky-image: url("./zml.jpg");
+  --sky-color: #273a43;
+  --sky-image: url("/assets/img/zml.jpg");
   background-image: var(--sky-image);
   background-size: cover;
   background-position: center;
