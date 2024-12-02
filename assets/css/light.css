@@ -2,7 +2,7 @@
 
 .sky {
   --sky-color: #c7cbcc;
-  --sky-image: url("/zml.jpg");
+  --sky-image: url("./zml.jpg");
   background-image: var(--sky-image);
   background-size: cover;
   background-position: center;
